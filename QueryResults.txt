@@ -1,0 +1,11 @@
+csci403=> SELECT * FROM project1;
+ line |                       stanza
+------+-----------------------------------------------------
+    0 | Hatred stops the mouths.
+    1 | Sometimes playing, midnight sings.
+    2 | Strange silver snow burns.
+      | --from http://peterhoward.org/haikugen/framset1.htm
+(4 rows)
+
+
+csci403=>
